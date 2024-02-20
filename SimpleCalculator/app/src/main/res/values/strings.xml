@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="first_num_title">First Number</string>
+    <string name="second_num_title">Second Number</string>
+    <string name="result_title">Result</string>
+    <string name="btn_sum_title">Find Sum</string>
+    <string name="btn_product_title">Find Product</string>
+</resources>
